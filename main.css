@@ -1,0 +1,198 @@
+html {
+    background-color: #000;
+    background-image:url(http://img06.tooopen.com/images/20170704/tooopen_sy_215290894766.jpg);
+}
+body {
+    font-family: Arial,"微軟正黑體",BoldMT ,san-serif;
+    margin: 0 auto;
+    width: 940px;
+    font-size: 14pt;
+    color: #EBF0F4;
+    background-color: #1C232D;
+    opacity: 0.9;
+}
+.backtotop ul{
+  position: fixed;
+  font-family: sans-serif;
+  z-index: 1;
+  right: 10px;
+  bottom: 10px;
+}
+.backtotop ul li{
+display: inline-block;
+}
+.backtotop ul li a{
+  text-decoration: none;
+  list-style-type: none;
+  outline: solid 1px #313d4f;
+  background-color: #0B0B0B;
+  color: #A69C93;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding: 10px;
+  opacity: 0.7;
+}
+.backtotop ul li a:hover{
+
+  background: #8A97A8;
+  color: #fff;
+}
+.title_back{
+    position: absolute;
+    width: 900px;
+    height: 140px;
+    background-color: #0B0B0B;
+    margin-left: 20px;
+}
+#title {
+    position: absolute;
+    font-weight: bold;
+    width: 940px;
+    color: #EBF0F4;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40px;
+}
+header {
+    font-size: 0px;
+}
+.nav ul{
+  position: absolute;
+  font-family: sans-serif;
+  z-index: 1;
+  margin-left: 155px;
+  margin-top: 150px;
+}
+.nav ul li{
+display: inline-block;
+}
+.nav ul li a{
+  text-decoration: none;
+  list-style-type: none;
+  background-color: #0B0B0B;
+  color: #A69C93;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 10px;
+}
+.nav ul li a:hover{
+
+  background: #8A97A8;
+  color: #fff;
+}
+.area1{
+  position: relative;
+  height: 200px;
+  font-size: 0;
+}
+.area2{
+  position: relative;
+  height: 680px;
+}
+.sherlock_text{
+  position: absolute;
+  margin-top: 270px;
+  margin-left: 450px;
+  width: 400px;
+  text-indent:30px;
+}
+.pic_sherlock{
+  position: absolute;
+  width: 300px;
+  height: 440px;
+  margin-top: 170px;
+  margin-left: 60px;
+  background-color: #fff;
+  background-image: url(https://static.metacritic.com/images/products/tv/4/525c42f7a1b036d6716878d6b59f28e9.jpg);
+  background-size: cover;
+  font-size: 0;
+}
+.area3{
+  position: relative;
+  height: 680px;
+}
+.pic_CM{
+  position: absolute;
+  width: 300px;
+  height: 440px;
+  margin-top: 170px;
+  margin-left: 60px;
+  background-color: #fff;
+  background-image: url(https://http2.mlstatic.com/criminal-minds-12-13-temporada-audio-dual-D_NQ_NP_710997-MLB27955409196_082018-F.jpg);
+  background-size: cover;
+  font-size: 0;
+}
+.CM_text{
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 450px;
+  width: 400px;
+  text-indent:30px;
+}
+.area4{
+  position: relative;
+  height: 680px;
+}
+.BB_text{
+  position: absolute;
+  margin-top: 290px;
+  margin-left: 450px;
+  width: 400px;
+  text-indent:30px;
+}
+.pic_BB{
+  position: absolute;
+  width: 300px;
+  height: 440px;
+  margin-top: 170px;
+  margin-left: 60px;
+  background-color: #fff;
+  background-image: url(https://m.media-amazon.com/images/M/MV5BZDNhNzhkNDctOTlmOS00NWNmLWEyODQtNWMxM2UzYmJiNGMyXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UY1200_CR113,0,630,1200_AL_.jpg);
+  background-size: cover;
+  font-size: 0;
+}
+.area5{
+  position: relative;
+  height: 680px;
+}
+.X_text{
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 450px;
+  width: 400px;
+  text-indent:30px;
+}
+.pic_X{
+  position: absolute;
+  width: 300px;
+  height: 440px;
+  margin-top: 170px;
+  margin-left: 60px;
+  background-color: #fff;
+  background-image: url(https://static1.squarespace.com/static/56d4cbed01dbaeda39b8136d/56d4e5343c44d83b5d4d26f1/5af07daf70a6adb77cb46dd7/1525710257513/TheX-Files.png);
+  background-size: cover;
+  font-size: 0;
+}
+.text1{
+	position: absolute;
+  font-family: 'Anton', sans-serif;
+  font-size: 80px;
+  color: #EBF0F4;
+	font-weight: bold;
+  margin-left: 20px;
+  margin-top: 20px;
+	opacity: 0.6;
+}
+.back_footer{
+  width: 100%;
+  height: 80px;
+  background-color: #000;
+}
+.text_footer{
+  font-family: Arial,"微軟正黑體",BoldMT ,san-serif;
+  text-align: center;
+  color: #EBF0F4;
+  font-size: 15px;
+  padding: 27px;
+  opacity: 0.5;
+}
